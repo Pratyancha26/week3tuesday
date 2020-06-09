@@ -17,6 +17,7 @@ public class Week3Tuesday {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Learning Push Operation");
+        System.out.println("Learning Push Operation + fetch");
     }
     
 }

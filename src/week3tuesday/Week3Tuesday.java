@@ -18,7 +18,7 @@ public class Week3Tuesday {
         // TODO code application logic here
         System.out.println("Learning Push Operation");
         System.out.println("Learning Push Operation + fetch");
-        
+        System.out.println("Merging");
         // Branch Testing
     }
     
